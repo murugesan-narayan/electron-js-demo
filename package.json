@@ -1,0 +1,17 @@
+{
+  "name": "electron-js-demo",
+  "version": "1.0.0",
+  "description": "electron js demo",
+  "main": "main-crud.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Muru",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
